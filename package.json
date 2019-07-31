@@ -1,0 +1,23 @@
+{
+  "name": "changestream-node",
+  "version": "1.0.0",
+  "description": "Example of using MongoDB Change Stream API w/ Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blainemincey/changestream-node.git"
+  },
+  "author": "Blaine Mincey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blainemincey/changestream-node/issues"
+  },
+  "homepage": "https://github.com/blainemincey/changestream-node#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "faker": "^4.1.0",
+    "mongodb": "^3.3.0-beta2"
+  }
+}
